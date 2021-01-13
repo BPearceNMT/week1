@@ -9,4 +9,20 @@ First Repo
 
 `git add` add files or stage files in the repository
 
-`git commit` commit/save files to the repository. Ex:
+`git commit` commit/save files to the repository. Ex: git commit -m "Message" <FILES>
+  
+ `git status` check the status of the repository
+ 
+ ## Basic Bash commands
+ 
+ `pwd` print current working directory
+ 
+ `cd` change directory
+ 
+ `ls` list content
+ 
+ `ls -a` list all content
+ 
+ `mkdir` create directory
+ 
+ `touch` create a dummy file placeholder
