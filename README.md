@@ -36,3 +36,6 @@ First Repo
  `echo` print to screen
  
  `echo >> file` to redirect to file
+cat to concatenate or display file to stdout
+echo to print to screen
+echo >> file: to redirect output to file
