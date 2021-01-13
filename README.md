@@ -29,6 +29,8 @@ First Repo
  
  `touch` create a dummy file placeholder
  
+ `rm` delete a file (rm -r will recursively delete a directory and all its contents)
+ 
  `cat` to concatenate or display file to stdout
  
  `echo` print to screen
