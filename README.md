@@ -11,7 +11,9 @@ First Repo
 
 `git commit` commit/save files to the repository. Ex: git commit -m "Message" <FILES>
   
- `git status` check the status of the repository
+`git status` check the status of the repository
+ 
+ `git checkout` to recover or checkout files from last commit 
  
  ## Basic Bash commands
  
@@ -26,3 +28,9 @@ First Repo
  `mkdir` create directory
  
  `touch` create a dummy file placeholder
+ 
+ `cat` to concatenate or display file to stdout
+ 
+ `echo` print to screen
+ 
+ `echo >> file` to redirect to file
